@@ -1,8 +1,9 @@
 <h1 align="center">Title : PIZZA SALES DATABASE</h1>
 
 <div align= "center">
-    <h3>Business Problem: Enhancing Trip Efficiency, Revenue Generation, and Customer Satisfaction for NAMMA YATRI APP</h3><br>
-    <img src=https://github.com/Singhyash9009/OLA_UBER_SQL_DATABASE/blob/main/image.jpg >
+    <h3>Business Problem:How can we leverage data analytics to optimize pizza sales, enhance customer satisfaction, and maximize revenue through targeted marketing, dynamic pricing, and product offering optimization?</h3><br>
+    <img src=![](https://github.com/Singhyash9009/Pizza-Sales/blob/main/Pizza%20Sales.png)
+>
 </div>
 
 ### 📄 Key Objectives:
